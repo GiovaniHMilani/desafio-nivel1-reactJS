@@ -1,4 +1,4 @@
-# Desafio 02: Conceitos do Node.js
+# Desafio 03: Conceitos ReactJS
 
 Aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios
 
